@@ -156,6 +156,7 @@
                 android:id="@+id/btn_dot"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:onClick="onClickDot"
                 android:text="."
                 android:textSize="35sp" />
 
